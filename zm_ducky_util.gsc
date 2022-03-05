@@ -182,7 +182,6 @@ function generateArraysFromCSV(csv_filename){
 	return rows;
 }
 
-
 //sort structs or ents by script_int
 function orderEnts(ents){
 	new_ents = [];
